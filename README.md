@@ -1,1 +1,1 @@
-/ocr-docs-validation
+/ocr-docs
